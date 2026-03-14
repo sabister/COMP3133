@@ -1,4 +1,4 @@
-import { Customer } from "./customer";
+import { Customer } from "./customer"
 
 let customer = new Customer("mike","wood");
 customer.greeter();
